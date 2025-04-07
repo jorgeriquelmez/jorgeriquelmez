@@ -35,8 +35,7 @@ Puedes contactarme a través de mi correo electrónico: <a href="mailto:jorge.ri
 
 ## 🔧 Base de datos
 
-<img src="https://img.shields.io/badge/postgres-v13.3-blue
-">
+<img src="https://img.shields.io/badge/postgres-v13.3-blue">
 
 
 ## 🔒️ DevOps
