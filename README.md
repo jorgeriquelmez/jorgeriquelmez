@@ -1,6 +1,6 @@
 # Hola 👋, soy Jorge Riquelme Zapata
 
-Soy Ingeniero Civil Electrónico apasionado por el **Desarrollo web**. Apasionado por la creación de interfaces de usuario atractivas y funcionales.
+Soy Ingeniero Civil Electrónico apasionado por el **Desarrollo web** y la creación de interfaces de usuario atractivas y funcionales.
 
 ## 🌐 Enlaces útiles
 
